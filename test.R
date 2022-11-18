@@ -1,3 +1,3 @@
-x <- rnorm(10)
+x <- rnorm(100)
 mean(x)
 sd(x)
